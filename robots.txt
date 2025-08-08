@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gleeful-beijinho-48a909.netlify.app/sitemap.xml
